@@ -7,3 +7,4 @@ fields:
   config: {}
   template: home-hero
   label: Hero
+  description: Hello <a href="https://example.com" title="sfas" target="_blank"><strong>world</strong></a>
