@@ -24,7 +24,8 @@ fields:
 - name: timeToRead
   type: number
   label: Read Time
-  description: The time it takes to read the post (in minutes)
+  description: The time it takes to read the post (in <strong>minutes</strong>) <a
+    href="https://example.com" title="here" target="_blank">here</a>
   default: 0
   config:
     required: true
